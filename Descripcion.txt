@@ -31,7 +31,7 @@ Funcionamiento:
              Ademas como pagina inical dice: libros Bienvenidos a tu biblioteca
       Para cambiar contraseña:
                              /account/password_change/
-       Utillize como referencia y elaboracion del presente proyecto utilice el siguiente video:
+       Como referencia y elaboracion del presente proyecto utilice el siguiente video:
                                 https://www.youtube.com/watch?v=iBiK13SB_Ug&t=418s
 
  Carpetas:
