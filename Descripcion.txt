@@ -1,0 +1,54 @@
+13/09/2024
+
+Nombre y Apellido:
+Garcia Alan 229375
+
+Asignatura: Electiva III
+
+
+                                      Proyecto de app Biblioteca:
+
+I PARTE :
+      El inicio de sesión  y registro de usuario dentro de la app.
+
+Observación: No utilize base de datos, solo forms y funciones de django para la creacion del mismo proyecto.
+Cabe destacar que le tuve que agregar "Cambiar contraseña" debido a una falla que tuve de que no me acordaba de la que ingrese.
+
+
+Funcionamiento:
+
+      1. Ingrese el codigo correspondiente para cargar el servidor, sobre la carpeta libros del proyecto( python manage.py runserver)
+      2. La misma pagina le pidira ingresar algunas de las 2 urls que encontro:
+            a. Admin/
+            b. Account/
+         Ingresar en la opcion b y lo redireccionara al inicio de sesion de la app. 
+                              Para realizar la prueba de funcionamiento puede ingresar el siguiente usuario:
+                                           username: admin
+                                           password: Alan1234*
+         La app come esta en proceso aun de creacion de diseño y implementacion de otra funciones le cargara un menu donde señala:
+                                Libros 
+                                Mi biblioteca : A la esquina superior derecha  Hola (el nombre del usuario) y cerrar sesion.
+             Ademas como pagina inical dice: libros Bienvenidos a tu biblioteca
+      Para cambiar contraseña:
+                             /account/password_change/
+       Utillize como referencia y elaboracion del presente proyecto utilice el siguiente video:
+                                https://www.youtube.com/watch?v=iBiK13SB_Ug&t=418s
+
+ Carpetas:
+     Estrutuctura
+                 Biblioteca:
+                            Libros:
+                                   Account
+                                   Migration
+                                   Templates
+                            Libros (app):
+
+           
+    
+                                 
+                                      
+ 
+
+
+
+
